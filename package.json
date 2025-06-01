@@ -11,7 +11,7 @@
     "postinstall": "npm run build"
   },
   "keywords": ["social", "app", "orbya"],
-  "author": "Tu Nombre",
+  "author": "Javier Alonso Pérez",
   "license": "ISC",
   "description": "Red social Orbya",
   "engines": {
